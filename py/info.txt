@@ -1,0 +1,11 @@
+#Normal codes:
+
+#Compile:
+
+#There is no complie command.
+
+#Run: 
+
+python3 ./codeName.py
+
+#Note: the code most have execution permission.

@@ -1,0 +1,32 @@
+#kivy website:
+
+https://kivy.org/#home
+
+#kivy install:
+
+https://kivy.org/doc/stable/installation/installation-linux.html
+
+###############################################################################################
+
+#Packing:
+
+https://www.packtpub.com/mapt/book/application_development/9781783987382/8/ch08lvl1sec90/packaging-for-linux
+
+#Compile:
+
+#First make a directory for your package and place your source code insde that. For examle: myProgramPack (that includes myProgram.py)
+
+#Then with cd command go to the porject directory (which is myProgramPack in this example).
+
+#Finally use the following command:
+
+pyinstaller -F --name myProgramName myProgram.py
+
+###############################################################################################
+
+#Kivy tutorial:
+
+https://kivy.org/doc/stable/gettingstarted/first_app.html
+
+
+

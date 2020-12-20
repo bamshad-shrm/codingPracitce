@@ -1,0 +1,15 @@
+# .desktop file:
+
+https://help.ubuntu.com/community/UnityLaunchersAndDesktopFiles
+
+# gtk:
+
+https://developer.gnome.org/gtk3/stable/gtk-getting-started.html
+
+# To change the executable file location to a variable"
+
+https://unix.stackexchange.com/questions/144422/getting-the-current-path-in-desktop-exec-command
+
+# For changing the icon:
+
+https://unix.stackexchange.com/questions/164131/getting-current-path-in-desktop-entry-for-icon-command
