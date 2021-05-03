@@ -1,0 +1,3 @@
+/home/yellow/Desktop/pracitce/codingPractice/cpp/codility/build-FrogJmp-Desktop-Default/CMakeFiles/rebuild_cache.dir
+/home/yellow/Desktop/pracitce/codingPractice/cpp/codility/build-FrogJmp-Desktop-Default/CMakeFiles/FrogJmp.dir
+/home/yellow/Desktop/pracitce/codingPractice/cpp/codility/build-FrogJmp-Desktop-Default/CMakeFiles/edit_cache.dir

@@ -1,0 +1,3 @@
+/home/yellow/Desktop/pracitce/codingPractice/cpp/container/build-vector-Desktop_Qt_5_9_5_GCC_64bit-Default/CMakeFiles/rebuild_cache.dir
+/home/yellow/Desktop/pracitce/codingPractice/cpp/container/build-vector-Desktop_Qt_5_9_5_GCC_64bit-Default/CMakeFiles/vector.dir
+/home/yellow/Desktop/pracitce/codingPractice/cpp/container/build-vector-Desktop_Qt_5_9_5_GCC_64bit-Default/CMakeFiles/edit_cache.dir

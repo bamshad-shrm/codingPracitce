@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yellow/Desktop/pracitce/codingPractice/cpp/container/qt/vector/main.cpp
+iostream
+-
+vector
+-
+stdlib.h
+-
+algorithm
+-
+

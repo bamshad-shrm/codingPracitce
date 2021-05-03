@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yellow/Desktop/pracitce/codingPractice/cpp/container/addRem/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+stdlib.h
+-
+

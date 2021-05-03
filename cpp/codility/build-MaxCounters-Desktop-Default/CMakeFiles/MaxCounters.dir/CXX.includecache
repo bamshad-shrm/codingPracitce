@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yellow/Desktop/pracitce/codingPractice/cpp/codility/MaxCounters/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+math.h
+-
+cstdlib
+-
+

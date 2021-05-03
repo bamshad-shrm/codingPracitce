@@ -1,0 +1,1 @@
+/usr/bin/g++    -rdynamic CMakeFiles/TackC.dir/main.cpp.o  -o TackC 

@@ -1,0 +1,1 @@
+/usr/bin/g++    -rdynamic CMakeFiles/codeStructureA.dir/main.cpp.o  -o codeStructureA 

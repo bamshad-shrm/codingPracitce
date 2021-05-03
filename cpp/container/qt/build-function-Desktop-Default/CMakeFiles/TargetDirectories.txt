@@ -1,0 +1,3 @@
+/home/yellow/Desktop/pracitce/codingPractice/cpp/container/build-function-Desktop-Default/CMakeFiles/rebuild_cache.dir
+/home/yellow/Desktop/pracitce/codingPractice/cpp/container/build-function-Desktop-Default/CMakeFiles/function.dir
+/home/yellow/Desktop/pracitce/codingPractice/cpp/container/build-function-Desktop-Default/CMakeFiles/edit_cache.dir
